@@ -71,7 +71,7 @@ export default function App() {
         setScoreNum(0);
       }
     }
-  };
+  }
 
   return (
     <SafeAreaView style={status.container}>
